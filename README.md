@@ -1,5 +1,6 @@
 **Installation and Setup:**
 **1. Cloning the Repository**
+
 In Git Bash
 ```bash
 git clone https://github.com/NeHorgi/interpidfox_test_task.git
@@ -8,6 +9,7 @@ cd interpidfox_test_task
 Or clone it in IDE by using IDE's interface for it.
 
 **2. Creating and Activating a Virtual Environment**
+
 For Windows (Git Bash):
 ```bash
 python -m venv venv
