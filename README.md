@@ -2,7 +2,7 @@
 **1. Cloning the Repository**
 In Git Bash
 ```bash
-git clone [<REPOSITORY_URL>](https://github.com/NeHorgi/interpidfox_test_task.git)
+git clone https://github.com/NeHorgi/interpidfox_test_task.git
 cd interpidfox_test_task
 ```
 Or clone it in IDE by using IDE's interface for it.
