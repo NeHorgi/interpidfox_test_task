@@ -6,6 +6,7 @@ git clone <REPOSITORY_URL>
 cd <REPOSITORY_NAME>
 ```
 Or clone it in IDE by using IDE's interface for it.
+
 **2. Creating and Activating a Virtual Environment**
 For Windows (Git Bash):
 ```bash
@@ -18,6 +19,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 Or also activate it in your IDE, how it suits to you.
+
 **3. Installing Dependencies**
 ```bash
 pip install -r requirements.txt
